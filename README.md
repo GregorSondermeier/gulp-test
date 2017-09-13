@@ -2,4 +2,4 @@
 
 Just a quick test to get acquainted with gulp.
 
-Run `gulp` or `gulp sass`.
+Run `gulp` or `gulp sass` or `gulp sass:watch`.
