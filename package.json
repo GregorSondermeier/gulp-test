@@ -1,0 +1,30 @@
+{
+  "name": "gs-gulp-test",
+  "version": "0.0.1",
+  "description": "Just a quick gulp test",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GregorSondermeier/gulp-test"
+  },
+  "author": {
+    "name": "Gregor Sondermeier",
+    "email": "gregor.sondermeier.github@gmail.com>",
+    "url": "https://github.com/GregorSondermeier"
+  },
+  "keywords": [
+    "gulp",
+    "scss"
+  ],
+  "homepage": "https://github.com/GregorSondermeier/gulp-test",
+  "bugs": {
+    "url": "https://github.com/GregorSondermeier/gulp-test/issues"
+  },
+  "licence": "MIT",
+  "private": true,
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-csso": "^3.0.0",
+    "gulp-sass": "^3.1.0"
+  }
+}
